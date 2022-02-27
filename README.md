@@ -16,5 +16,5 @@ In this course were made different DL tasks and research.
 13. [REINFORCE](https://github.com/v-mk-s/tinkoff-DL-course/blob/master/1-DL%20course/13/o13_1%20Reinforce.ipynb)
 14. [Actor-Critic](https://github.com/v-mk-s/tinkoff-DL-course/blob/master/1-DL%20course/14/o14_1%20actor-critic.ipynb)
 
-Actor-Critic implementation for Atari.
+# Actor-Critic implementation for Atari.
 ![Actor-Critic](https://user-images.githubusercontent.com/32800793/155899453-cf738066-5356-4358-a4dd-032204ce8c01.png)
